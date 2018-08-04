@@ -11,7 +11,7 @@ Performance of models:
 | etree            |   0.6202  |                            |
 | knn              |   0.5514  |                            |
 | lgb_without_munc |   0.76663 |   0.76686                  |
-| lgb_without_ward |   0.7662  |                            |
+| lgb_without_ward |   0.7662  |   0.76719                  |
 | catb_without_munc|   0.76201 |                            |
 | catb_averaged    |   0.76558 |                            |
 | nnet             |   0.7355  |                            |
