@@ -18,6 +18,6 @@ Performance of models:
 | catb_less_feat   |   0.76821 |   0.76302                  |
 
 
-Best_score=prob_lgb**0.3+prob_lgb_munc**0.2+prob_lgb_ward**0.1+prob_catb_less_feat**0.4 
+Best_score=prob_lgb(0.3)+prob_lgb_munc(0.2)+prob_lgb_ward(0.1)+prob_catb_less_feat(0.4) 
 
 0.76978
